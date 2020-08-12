@@ -33,13 +33,14 @@ And when the tables are inter-related, it is named as **Relational** database.
 
 for these acts to do upon large number of data,the magic spells are found in SQL- structured Query Language. A powerful yet easy programming language.
 
+####Installation: 
 
-#####**Installation:** 
+**for MAC**
 
-..* for MAC
 - [x] [Goto the official website of postgres app.] (https://postgresapp.com) .
 - [x] Select "Downloads".
            In this section,two options will be found.
+           
             1.Latest Release.
 
             2.Additional Releases
