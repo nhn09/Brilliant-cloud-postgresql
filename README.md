@@ -1,4 +1,4 @@
-# Brilliant cloud postgresql
+# Starting postgresql
  PostgreSQL, also known as Postgres, is a  relational database management system emphasizing extensibility and uses SQL as the language.
  
  ### Why postgres? 
