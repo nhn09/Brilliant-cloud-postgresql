@@ -57,9 +57,9 @@ for these acts to do upon large number of data,the magic spells are found in SQL
 
 - [x] From the "Packages and Installers" section ,select WINDOWS operating system from the given options.
 
-- [x]From the table of versions, it's preferrable to choose the latest one,and press the supported version of your   windows(64 bit or 32 bit).
+- [x] From the table of versions, it's preferrable to choose the latest one,and press the supported version of your   windows(64 bit or 32 bit).
 
-- [x]Open the downloaded file,start installation.
+- [x] Open the downloaded file,start installation.
                      
                      1. A dialogue box named Set up will open up.Press next.
 
@@ -111,7 +111,18 @@ Now the shell will look like this-
 
 ##  Creating own database:
 
-Normally if we write \l in the shell, it show bunch of previously created databases.But to make a new one, some command is to be use
+* Normally if we write \l in the shell, it show bunch of previously created databases.But to make a new one, some command is to be used. 
+
+  CREATE DATABASE P_ONE(may use any name) ;
+  for a successful command, it will print CREATE DATABASE after the command line.
+  commanding \l we can check wheather this database is created or not.
+
+* help command will show a bunch of helpful commands.
+* simply type "\c table_name" to connect.
+
+
+                      &#x1F534;                  **A very sensitive command**                   &#x1F534;
+
 
 
 
