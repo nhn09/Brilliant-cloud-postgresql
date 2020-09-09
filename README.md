@@ -109,6 +109,10 @@ Now the shell will look like this-
 * select postgresQL from the option.
 * password window will pop-up, fill that up.
 
+##  Creating own database:
+
+Normally if we write \l in the shell, it show bunch of previously created databases.But to make a new one, some command is to be use
+
 
 
 
