@@ -77,9 +77,44 @@ for these acts to do upon large number of data,the magic spells are found in SQL
 
 
 
-##Connecting Database:##
+##Ways to Connect the Database:
 
-* GUI client: as the name refers, graphical interface will result easy manipulation.Such as Datagrip,postico.
+* GUI client: as the name refers, graphical interface will result easy manipulation.Such as Datagrip,postico,pgadmin.
 * CMD client:Makes the inner logics and interactions clearer. 
 * Application: Using intermediate applications.
+
+##Connecting PSQL in windows using SQL shell:
+
+* Open PSQL shell.
+* It will show "Server [localhost]:" in the console.For remote server, write the url, otherwise for local server just press enter.
+* It will now show "Database [postgres]:" , there is already a default value present for this, so also press enter.
+* Port [5432]:this is the default port for Postgres. Press enter.
+* Username [postgres]:It is also "postgres", and set by default. Press enter.
+* Password for user postgres: While installing , we created a password for superuser, now plug that password here.
+* While writing the password, console will remain empty, it's ok to be that way.
+
+Now the shell will look like this-
+
+       WARNING: Console code page (437) differs from Windows code page (1252)
+         8-bit characters might not work correctly. See psql reference
+         page "Notes for Windows users" for details.
+       Type "help" for help.
+       postgres=#
+
+
+
+##Connecting PSQL in windows using PgAdmin:
+
+* Open PgAdmin, go to server on the left-most corner.
+* select postgresQL from the option.
+* password window will pop-up, fill that up.
+
+
+
+
+
+
+
+
+
 
