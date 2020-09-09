@@ -121,7 +121,7 @@ Now the shell will look like this-
 * simply type "\c table_name" to connect.
 
 
-                                           **A very sensitive command**                   
+> A very sensitive command : be careful to drop database,there is no way to get the data back.                 
 
 
 
