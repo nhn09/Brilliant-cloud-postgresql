@@ -77,13 +77,13 @@ for these acts to do upon large number of data,the magic spells are found in SQL
 
 
 
-##Ways to Connect the Database:
+## Ways to Connect the Database:
 
 * GUI client: as the name refers, graphical interface will result easy manipulation.Such as Datagrip,postico,pgadmin.
 * CMD client:Makes the inner logics and interactions clearer. 
 * Application: Using intermediate applications.
 
-##Connecting PSQL in windows using SQL shell:
+## Connecting PSQL in windows using SQL shell:
 
 * Open PSQL shell.
 * It will show "Server [localhost]:" in the console.For remote server, write the url, otherwise for local server just press enter.
@@ -103,7 +103,7 @@ Now the shell will look like this-
 
 
 
-##Connecting PSQL in windows using PgAdmin:
+## Connecting PSQL in windows using PgAdmin:
 
 * Open PgAdmin, go to server on the left-most corner.
 * select postgresQL from the option.
