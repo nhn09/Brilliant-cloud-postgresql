@@ -121,7 +121,7 @@ Now the shell will look like this-
 * simply type "\c table_name" to connect.
 
 
-                      &#x1F534;                  **A very sensitive command**                   &#x1F534;
+                                           **A very sensitive command**                   
 
 
 
